@@ -24,9 +24,9 @@ function Profile() {
           <Input label="Label Name" placeholder="Placeholder" />
           <Input label="Label Name" placeholder="Placeholder" />
         </div>
-        <Input label="Label Name" placeholder="Placeholder" />
-        <Input label="Label Name" placeholder="Placeholder" />
-        <Input label="Label Name" placeholder="Placeholder" />
+        <Input label="Label Name" placeholder="Placeholder" className="input-field" />
+        <Input label="Label Name" placeholder="Placeholder" className="input-field" />
+        <Input label="Label Name" placeholder="Placeholder" className="input-field" />
       </div>
 
       <div className="button-section">

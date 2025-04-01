@@ -50,6 +50,22 @@
   gap: 16px;
 }
 
+.input-container {
+  margin-bottom: 12px;
+}
+
+.input-field {
+  width: 100%;
+  padding: 8px;
+  border-radius: 4px;
+}
+
+.input-row .input-field:nth-child(3),
+.input-row .input-field:nth-child(4),
+.input-row .input-field:nth-child(5) {
+  flex-grow: 1;
+}
+
 .button-section {
   display: flex;
   flex-direction: row; 
